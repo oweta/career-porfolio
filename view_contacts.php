@@ -3,6 +3,7 @@ $host = "localhost";
 $username = "root";
 $password = "";
 $dbname = "user_data";
+$port = 3307; // Ensure this matches the MySQL port in XAMPP
 
 $conn = new mysqli($host, $username, $password, $dbname);
 
