@@ -3,11 +3,11 @@
 $host = "localhost"; // Change if your database is hosted remotely
 $username = "root"; // Your MySQL username
 $password = ""; // Your MySQL password (leave empty if using XAMPP default)
-$dbname = "user_data"; // The database i created
-$port = 3307; 
+$dbname = "user_data"; // The database you created
+$port = 3307; // Ensure this matches the MySQL port in XAMPP
 
 // Connect to MySQL database
-$conn = new mysqli($host, $username, $password, $dbname);
+$conn = new mysqli($host, $username, $password, $dbname, $port);
 
 // Check connection
 if ($conn->connect_error) {
@@ -17,19 +17,23 @@ if ($conn->connect_error) {
 // Process form submission
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Retrieve form data
-    $name = $conn->real_escape_string($_POST['name']);
-    $email = $conn->real_escape_string($_POST['email']);
-    $subject = $conn->real_escape_string($_POST['subject']);
-    $message = $conn->real_escape_string($_POST['message']);
+    $name = trim($_POST['name']);
+    $email = trim($_POST['email']);
+    $subject = trim($_POST['subject']);
+    $message = trim($_POST['message']);
 
-    // Insert data into database
-    $sql = "INSERT INTO contacts (name, email, subject, message) VALUES ('$name', '$email', '$subject', '$message')";
-    
-    if ($conn->query($sql) === TRUE) {
+    // Use prepared statements to prevent SQL injection
+    $stmt = $conn->prepare("INSERT INTO contacts (name, email, subject, message) VALUES (?, ?, ?, ?)");
+    $stmt->bind_param("ssss", $name, $email, $subject, $message);
+
+    if ($stmt->execute()) {
         echo "Your message has been sent successfully!";
     } else {
-        echo "Error: " . $sql . "<br>" . $conn->error;
+        echo "Error: " . $stmt->error;
     }
+
+    // Close the statement
+    $stmt->close();
 }
 
 // Close database connection
