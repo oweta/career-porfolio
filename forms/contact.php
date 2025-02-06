@@ -32,10 +32,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $stmt->bind_param("ssss", $name, $email, $subject, $message);
 
     if ($stmt->execute()) {
-        echo "Your message has been sent successfully!";
+        echo "<div style='color: green; font-weight: bold;'>Your message has been sent successfully!</div>";
     } else {
-        echo "Error: " . $stmt->error;
+        echo "<div style='color: red; font-weight: bold;'>Error: " . $stmt->error . "</div>";
     }
+    
 
     // Close the statement
     $stmt->close();
