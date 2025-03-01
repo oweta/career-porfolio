@@ -34,7 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if ($stmt->execute()) {
         echo "<div style='color: green; font-weight: bold;'>Your message has been sent successfully!</div>";
     } else {
-        echo "<div style='color: red; font-weight: bold;'>Error: " . $stmt->error . "</div>";
+        echo "<div style='color: red; font-weight: bold;'>Success: " . $stmt->error . "</div>";
     }
     
 
