@@ -1,2 +1,1 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+This is my career portfolio and i hope to design a better portfolio for the company and the company's business operations and the company's business opperations and the company's business 
