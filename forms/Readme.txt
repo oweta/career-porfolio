@@ -23,3 +23,8 @@ This is my personal career portfolio website, showcasing my skills, projects, ex
 3. Open a web browser and go to:  
 
 http://localhost/career-portfolio
+
+4. If the project requires a database, import the provided **SQL file** into MySQL:
+- Open phpMyAdmin (`http://localhost/phpmyadmin`)
+- Create a database (e.g., `user_database`).
+- Import the database structure if applicable.
