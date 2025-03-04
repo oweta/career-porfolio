@@ -1,1 +1,0 @@
-This is my career portfolio and i hope to design a better portfolio for the company and the company's business operations and the company's business opperations and the company's business 
