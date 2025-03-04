@@ -28,3 +28,8 @@ http://localhost/career-portfolio
 - Open phpMyAdmin (`http://localhost/phpmyadmin`)
 - Create a database (e.g., `user_database`).
 - Import the database structure if applicable.
+
+## Usage
+- Navigate through the website to explore my work and experience.
+- Use the contact form to send me a message.
+- View project demos and descriptions.
