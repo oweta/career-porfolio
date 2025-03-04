@@ -33,3 +33,8 @@ http://localhost/career-portfolio
 - Navigate through the website to explore my work and experience.
 - Use the contact form to send me a message.
 - View project demos and descriptions.
+
+## Future Enhancements
+- Add dynamic content management.
+- Implement a blog section.
+- Improve animations and interactivity.
