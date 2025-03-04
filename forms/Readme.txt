@@ -21,3 +21,5 @@ This is my personal career portfolio website, showcasing my skills, projects, ex
 1. Install and start XAMPP (ensure Apache & MySQL are running).
 2. Clone or copy the project folder into `C:\xampp\htdocs\career-portfolio`
 3. Open a web browser and go to:  
+
+http://localhost/career-portfolio
