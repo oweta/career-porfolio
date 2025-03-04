@@ -9,3 +9,9 @@ This is my personal career portfolio website, showcasing my skills, projects, ex
 - Skills: A list of technologies and tools I specialize in.
 - Contact Form: Allows visitors to reach out to me directly.
 - Responsive Design: Optimized for both desktop and mobile devices.
+
+## Technologies Used
+- Front-End: HTML, CSS, JavaScript  
+- Back-End: PHP  
+- Database: MySQL  
+- Server: XAMPP (Apache & MySQL)  
