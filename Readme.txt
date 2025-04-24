@@ -48,7 +48,7 @@ Here’s a breakdown of the tools and technologies used:
 - **Hosting**:  
   - [InfinityFree](https://infinityfree.net) or any other free hosting platform
 
-- **Version Control**:  
+- Version Control:  
   - Git & GitHub
 
 ## 📁 Folder Structure
