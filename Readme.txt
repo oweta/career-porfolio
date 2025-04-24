@@ -45,7 +45,7 @@ Here’s a breakdown of the tools and technologies used:
   - PHP  
   - MySQL (for contact forms or dynamic content)
 
-- **Hosting**:  
+- Hosting:  
   - [InfinityFree](https://infinityfree.net) or any other free hosting platform
 
 - Version Control:  
