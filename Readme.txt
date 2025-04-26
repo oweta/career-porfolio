@@ -28,7 +28,7 @@ It includes sections like:
 - Home / Starter Page
 - About Me
 - Projects
-- **Skills**
+- Skills
 - **Contact Form**
 - Resume Download
 
