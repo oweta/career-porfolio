@@ -25,7 +25,7 @@ This portfolio website serves as:
 
 It includes sections like:
 
-- **Home / Starter Page**
+- Home / Starter Page
 - **About Me**
 - **Projects**
 - **Skills**
