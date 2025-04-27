@@ -3,7 +3,7 @@
 Welcome to the official repository of my personal portfolio website!  
 This site is a reflection of my journey in tech, showcasing my skills, projects, and what I'm passionate about.
 
-## 🧑‍💻 About Me
+## About Me
 
 I’m **Oweta Jacob Emmy**, a passionate and evolving tech enthusiast currently pursuing a Bachelor's Degree in Information Technology. I love learning by building — from simple front-end interfaces to data-driven projects and backend logic. I'm also exploring areas like:
 
