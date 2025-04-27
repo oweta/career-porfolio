@@ -51,5 +51,5 @@ Here’s a breakdown of the tools and technologies used:
 - Version Control:  
   - Git & GitHub
 
-## 📁 Folder Structure
+## Folder Structure
 
