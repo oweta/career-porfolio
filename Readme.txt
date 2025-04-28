@@ -32,7 +32,7 @@ It includes sections like:
 - **Contact Form**
 - Resume Download
 
-## 🛠️ Built With
+## Built With
 
 Here’s a breakdown of the tools and technologies used:
 
