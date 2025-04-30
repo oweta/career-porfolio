@@ -29,7 +29,7 @@ It includes sections like:
 - About Me
 - Projects
 - Skills
-- **Contact Form*
+- **Contact Form
 - Resume Download
 
 ## Built With
