@@ -1,4 +1,4 @@
-# 🌐 Oweta Jacob Emmy — Portfolio Website
+# Oweta Jacob Emmy — Portfolio Website
 
 Welcome to the official repository of my personal portfolio website!  
 This site is a reflection of my journey in tech, showcasing my skills, projects, and what I'm passionate about.
