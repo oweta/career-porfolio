@@ -10,7 +10,7 @@ I’m Oweta Jacob Emmy, a passionate and evolving tech enthusiast currently purs
 - ✅ Front-End Development (HTML, CSS, JavaScript)
 - ✅ Back-End Development (PHP, MySQL)
 - ✅ Database Management
-- ✅ Data Analysis (beginner)
+- ✅ Data Analysis
 - ✅ Full-Stack Web Development (in progress)
 - ✅ Blockchain & Smart Contracts (currently learning)
 
