@@ -43,7 +43,7 @@ Here’s a breakdown of the tools and technologies used:
 
 - Backend (optional):  
   - PHP  
-  - MySQL (for contact forms or dynamic content)
+
 
 
 
