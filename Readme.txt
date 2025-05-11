@@ -45,5 +45,5 @@ Here’s a breakdown of the tools and technologies used:
   - PHP  
   - MySQL (for contact forms or dynamic content)
 
-- Hosting:  
+
 
