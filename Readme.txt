@@ -39,7 +39,7 @@ Here’s a breakdown of the tools and technologies used:
 - Frontend:  
   - HTML5  
   - CSS3  
-  - JavaScript (vanilla)
+
 
 
 
