@@ -41,7 +41,7 @@ Here’s a breakdown of the tools and technologies used:
   - CSS3  
   - JavaScript (vanilla)
 
-- Backend (optional):  
+
 
 
 
