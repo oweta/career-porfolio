@@ -42,7 +42,7 @@ Here’s a breakdown of the tools and technologies used:
   - JavaScript (vanilla)
 
 - Backend (optional):  
-  - PHP  
+
 
 
 
