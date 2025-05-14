@@ -36,7 +36,7 @@ It includes sections like:
 
 Here’s a breakdown of the tools and technologies used:
 
-- Frontend:  
+
 
  
 
