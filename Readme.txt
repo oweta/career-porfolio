@@ -34,7 +34,7 @@ It includes sections like:
 
 ## Built With
 
-Here’s a breakdown of the tools and technologies used:
+
 
 
 
