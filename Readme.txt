@@ -30,7 +30,7 @@ It includes sections like:
 - Projects
 - Skills
 - Contact Form
-- Resume Download
+
 
 
 
