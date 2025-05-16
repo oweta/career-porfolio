@@ -25,7 +25,6 @@ This portfolio website serves as:
 
 It includes sections like:
 
-- Home / Starter Page
 
 
 
