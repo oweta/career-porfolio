@@ -21,9 +21,6 @@ This portfolio website serves as:
 - A personal introduction
 - A live showcase of my technical skills
 - A collection of the projects I’ve worked on
-- A reflection of my learning progress and goals
-
-
 
 
 
