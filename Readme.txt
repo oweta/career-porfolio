@@ -12,7 +12,7 @@ I’m Oweta Jacob Emmy, a passionate and evolving tech enthusiast currently purs
 - ✅ Database Management
 - ✅ Data Analysis
 - ✅ Full-Stack Web Development (in progress)
-- ✅ Blockchain & Smart Contracts (currently learning)
+
 
 
 
