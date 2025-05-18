@@ -18,7 +18,6 @@ I’m Oweta Jacob Emmy, a passionate and evolving tech enthusiast currently purs
 
 This portfolio website serves as:
 
-- A personal introduction
 
 
 
