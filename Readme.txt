@@ -7,7 +7,7 @@ This site is a reflection of my journey in technology, showcasing my skills, pro
 
 I’m Oweta Jacob Emmy, a passionate and evolving tech enthusiast currently pursuing a Bachelor's Degree in Information Technology. I love learning by building — from simple front-end interfaces to data-driven projects and backend logic. I'm also exploring areas like:
 
-- ✅ Front-End Development (HTML, CSS, JavaScript)
+
 
 
 
