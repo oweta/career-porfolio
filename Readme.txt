@@ -5,7 +5,7 @@ This site is a reflection of my journey in technology, showcasing my skills, pro
 
 ## About Me
 
-I’m Oweta Jacob Emmy, a passionate and evolving 
+I’m Oweta Jacob Emmy
 
 
 
