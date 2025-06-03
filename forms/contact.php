@@ -7,7 +7,7 @@ error_reporting(E_ALL);
 // Database connection details
 $host = "localhost";
 $username = "root"; 
-$password = ""; // Your MySQL password (leave empty if using XAMPP default)
+$password = ""; 
 $dbname = "user_database"; // The database you created
 $port = 3307; // Ensure this matches the MySQL port in XAMPP
 
