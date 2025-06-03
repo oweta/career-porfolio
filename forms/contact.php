@@ -9,7 +9,7 @@ $host = "localhost";
 $username = "root"; 
 $password = ""; 
 $dbname = "user_database"; 
-$port = 3307; // Ensure this matches the MySQL port in XAMPP
+$port = 3307; 
 
 // Connect to MySQL database
 $conn = new mysqli($host, $username, $password, $dbname, $port);
