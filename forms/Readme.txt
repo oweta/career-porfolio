@@ -43,4 +43,3 @@ http://localhost/career-portfolio
 For inquiries, feel free to contact me via the contact form on the website.
 
 ---
-© 2025 Oweta Jacob Emmy 
