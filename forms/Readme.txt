@@ -42,4 +42,3 @@ http://localhost/career-portfolio
 ## Contact
 For inquiries, feel free to contact me via the contact form on the website.
 
----
