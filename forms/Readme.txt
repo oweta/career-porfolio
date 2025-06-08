@@ -40,5 +40,4 @@ http://localhost/career-portfolio
 - Improve animations and interactivity.
 
 ## Contact
-For inquiries, feel free to contact me via the contact form on the website.
-
+For inquiries, feel free to contact me via the contact 
