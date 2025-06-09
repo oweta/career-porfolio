@@ -38,5 +38,3 @@ http://localhost/career-portfolio
 - Add dynamic content management.
 - Implement a blog section.
 - Improve animations and interactivity.
-
-## Contact
