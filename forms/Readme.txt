@@ -40,4 +40,3 @@ http://localhost/career-portfolio
 - Improve animations and interactivity.
 
 ## Contact
-For inquiries, feel free to 
