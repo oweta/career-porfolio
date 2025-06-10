@@ -37,4 +37,4 @@ http://localhost/career-portfolio
 ## Future Enhancements
 - Add dynamic content management.
 - Implement a blog section.
-- Improve animations and interactivity.
+- Improve animations 
