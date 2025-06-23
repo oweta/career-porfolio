@@ -1,2 +1,2 @@
-# Oweta Jacob Emmy — Portfolio Website
+# Oweta Jacob Emmy — Portfoli
 
