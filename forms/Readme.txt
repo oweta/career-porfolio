@@ -36,5 +36,5 @@ http://localhost/career-portfolio
 
 ## Future Enhancements
 - Add dynamic content management.
-- Implement a 
+
 
