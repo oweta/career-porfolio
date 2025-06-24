@@ -35,6 +35,6 @@ http://localhost/career-portfolio
 - View project demos and descriptions.
 
 ## Future Enhancements
-- Add dynamic content management.
+- Add dynamic content
 
 
