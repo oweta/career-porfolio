@@ -1,2 +1,2 @@
-# Oweta Jacob Emmy — Portfoli
+# Oweta Jacob Emmy —
 
