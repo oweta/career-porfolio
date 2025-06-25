@@ -1,2 +1,2 @@
-# Oweta Jacob Emmy —
+# Oweta Jacob 
 
