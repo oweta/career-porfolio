@@ -32,7 +32,6 @@ http://localhost/career-portfolio
 ## Usage
 - Navigate through the website to explore my work and experience.
 - Use the contact form to send me a message.
-- View project demo
 
 
 
