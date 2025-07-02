@@ -34,7 +34,7 @@ http://localhost/career-portfolio
 - Use the contact form to send me a message.
 - View project demos and descriptions.
 
-## Future Enhancements
+
 
 
 
